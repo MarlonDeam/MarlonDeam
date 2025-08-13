@@ -2,7 +2,7 @@
 
 **`Estudante de Redes e Segurança da Informação`**
 
-Me chamo **Marlon Deam**, tenho 21 anos e sou natural de Fortaleza, Ceará. Atualmente, estou cursando Redes de Computadores com foco em desenvolvimento e segurança da informação. Apaixonado por tecnologia e sempre buscando aprender mais.
+Me chamo **Marlon Deam**, tenho 21 anos e sou natural de Fortaleza, Ceará. Atualmente, estou cursando Redes de Computadores pela **universidade federal do ceará** com foco em desenvolvimento e segurança da informação. Apaixonado por tecnologia e sempre buscando aprender mais.
 
 <p align="left">
     <a href="https://github.com/marlondeam?tab=followers">

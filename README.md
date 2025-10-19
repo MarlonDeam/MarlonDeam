@@ -48,7 +48,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais.
 <img align="left" alt="Java" title="Java (iniciante)" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Docker" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="VM" title="Máquinas Virtuais" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5977/5977590.png"/>
+
 
 <br clear="left"/>
 <br/>

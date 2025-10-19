@@ -39,78 +39,15 @@ Me chamo **Marlon Deam**, tenho 21 anos e sou natural de Fortaleza, Ceará. Atua
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bash" 
-    title="Shell Script/Bash"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Lua" 
-    title="Lua"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java (iniciante)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VM" 
-    title="Máquinas Virtuais"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/5977/5977590.png" 
-/>
-<img 
-    align="left" 
-    alt="Wireshark" 
-    title="Wireshark"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" 
-/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Bash" title="Shell Script/Bash" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Lua" title="Lua" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" title="Java (iniciante)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="VM" title="Máquinas Virtuais" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/5977/5977590.png" />
+<img align="left" alt="Wireshark" title="Wireshark" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" />
 
 <br clear="left"/>
 <br/>

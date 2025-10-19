@@ -49,7 +49,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais.
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Docker" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="VM" title="Máquinas Virtuais" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5977/5977590.png"/>
-<img align="left" alt="Wireshark" title="Wireshark" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg"/>
 
 <br clear="left"/>
 <br/>

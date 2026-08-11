@@ -1,75 +1,50 @@
-# 👨🏻‍💻 Marlon Deam
+![](https://komarev.com/ghpvc/?username=MarlonDeam&color=006bed)
 
-**`Estudante de Redes e Segurança da Informação`**
+## Sobre mim
 
-Me chamo **Marlon Deam**, tenho 22 anos e sou natural de **Fortaleza, Ceará**.  
-Atualmente, curso **Redes** pela **Universidade Federal do Ceará**, com foco em **desenvolvimento e segurança da informação**.  
-Sou apaixonado por tecnologia e estou sempre buscando aprender mais.
+- 🤔 Explorando infraestrutura como código, automação de ambientes e práticas de DevOps.
+- 🎓 Estudando Redes de Computadores na Universidade Federal do Ceará (UFC).
+- 💼 Foco em **DevOps**, **Administração de Sistemas Linux** e **Segurança em Nuvem**.
+- 🌱 Aprendendo mais sobre AWS, Docker, Shell Scripting e IA/Prompt Security.
 
-<p align="left">
-  <a href="https://github.com/marlondeam?tab=followers">
-    <img
-      alt="Seguidores"
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/marlondeam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/marlondeam?tab=repositories&sort=stargazers">
-    <img
-      alt="Total de estrelas"
-      title="Total de estrelas no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/marlondeam?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/marlon-nobre-5b09262b0">
-    <img
-      alt="LinkedIn"
-      title="Meu LinkedIn"
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://www.instagram.com/deam_wxy">
-    <img
-      alt="Instagram"
-      title="Meu Instagram"
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-</p>
+## Minhas Skills
 
----
+**Linguagens e Scripting**
 
-### 🤖 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-GNU%20Bash-333333?style=flat&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Bash" title="Shell Script / Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Lua" title="Lua" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Java" title="Java (iniciante)" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Docker" title="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+**DevOps, Nuvem & Virtualização**
 
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![QEMU/KVM](https://img.shields.io/badge/-QEMU/KVM-333333?style=flat&logo=qemu)
 
-<br clear="left"/>
+**Sistemas & Infraestrutura**
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
+![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-333333?style=flat&logo=alpine-linux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
+
+**Ferramentas e IDEs**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-333333?style=flat&logo=linux-mint)
+![Terminal](https://img.shields.io/badge/-Terminal/CLI-333333?style=flat&logo=windows-terminal)
+
 <br/>
 
----
+<a href="https://github.com/MarlonDeam" title="Perfil do GitHub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonDeam&theme=dracula&show_icons=true" />
+</a>
 
-### 📊 Estatísticas
+## Onde me encontrar
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api?username=marlondeam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="Linguagens Mais Usadas"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlondeam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/SEU_LINKEDIN)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-marlonnnobre.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlonnnobre.dev@gmail.com)](mailto:marlonnnobre.dev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/MarlonDeam?label=follow&style=social)](https://github.com/MarlonDeam)

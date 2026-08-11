@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarlonDeam&color=006bed" alt="Contador de Views" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/MarlonDeam/MarlonDeam/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
@@ -70,3 +64,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-nobre-5b09262b0/)](https://www.linkedin.com/in/marlon-nobre-5b09262b0/)
 [![Gmail Badge](https://img.shields.io/badge/-marlonnnobre.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlonnnobre.dev@gmail.com)](mailto:marlonnnobre.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/MarlonDeam?label=follow&style=social)](https://github.com/MarlonDeam)
+![](https://komarev.com/ghpvc/?username=MarlonDeam&color=006bed)

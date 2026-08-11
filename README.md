@@ -1,13 +1,14 @@
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="https://komarev.com/ghpvc/?username=MarlonDeam&color=006bed" alt="Contador de Views" />
-    </td>
-    <td valign="middle" align="right">
-      <img src="https://raw.githubusercontent.com/MarlonDeam/MarlonDeam/output/github-contribution-grid-snake.svg" alt="Snake animation" width="450" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarlonDeam&color=006bed" alt="Contador de Views" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarlonDeam/MarlonDeam/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br />
 
 ## Sobre mim
 

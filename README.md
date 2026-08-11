@@ -56,17 +56,9 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonDeam&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonDeam&layout=compact&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/MarlonDeam/MarlonDeam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.demolab.com/?user=MarlonDeam&theme=dracula" />
-</div>
-
-## Onde me encontrar
+## Onde me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-nobre-5b09262b0/)](https://www.linkedin.com/in/marlon-nobre-5b09262b0/)
 [![Gmail Badge](https://img.shields.io/badge/-marlonnnobre.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlonnnobre.dev@gmail.com)](mailto:marlonnnobre.dev@gmail.com)

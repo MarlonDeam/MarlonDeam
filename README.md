@@ -56,18 +56,14 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/MarlonDeam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonDeam&theme=dracula&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonDeam&layout=compact&theme=dracula" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonDeam&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonDeam&layout=compact&theme=dracula" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/MarlonDeam">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarlonDeam&theme=dracula" />
-  </a>
+  <img height="165em" src="https://github-readme-streak-stats.demolab.com/?user=MarlonDeam&theme=dracula" />
 </div>
 
 ## Onde me encontrar

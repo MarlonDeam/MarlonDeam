@@ -7,7 +7,7 @@
 ## Sobre mim
 
 - 🤔 Explorando infraestrutura como código, automação de ambientes e práticas de DevOps.
-- 🎓 Estudando Redes de Computadores na Universidade Federal do Ceará (UFC).
+- 🎓 Estudando Computação na Universidade Federal do Ceará (UFC).
 - 💼 Foco em **DevOps**, **Administração de Sistemas Linux** e **Segurança em Nuvem**.
 - 🌱 Aprendendo mais sobre AWS, Kubernetes, CI/CD e IA/Prompt Security.
 
